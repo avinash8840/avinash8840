@@ -1,4 +1,4 @@
-[![MasterHead](https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/403/posts/41848/image-upload/car.gif)](https://avinash8840.in)
+[![MasterHead](https://camo.githubusercontent.com/ae256de86a7e29d6facfd4a0c7eadc37b6f2d1f25cfecc65e094467ad113ad2b/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f66633637313535386131353465323032353166633765373563636261393338612f74756d626c725f70323969726a54786d73317776636266716f315f313238302e676966)](https://avinash8840.in)
 <h1 align="center">Hi 👋, I'm Avinash</h1>
 <h3 align="center">I'm a Web Developer</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
